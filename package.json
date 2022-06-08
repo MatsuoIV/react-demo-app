@@ -1,0 +1,19 @@
+{
+  "name": "react-demo-app",
+  "version": "1.0.0",
+  "description": "A little React app for learning purpouses",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --covering"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MatsuoIV/react-demo-app.git"
+  },
+  "author": "Pedro Pairazaman @MatsuoIV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatsuoIV/react-demo-app/issues"
+  },
+  "homepage": "https://github.com/MatsuoIV/react-demo-app#readme"
+}
